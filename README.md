@@ -1,4 +1,4 @@
-# AlfaBankHackathon
+# КОМАНДА ГРУППА БЕЗ ЕДИНИЦЫ
 
 # Running
 ## Downloading
